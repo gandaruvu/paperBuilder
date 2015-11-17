@@ -1,0 +1,9 @@
+{
+	"text":String,
+	"figures":[
+			uri(String)
+	]
+	"choices":[
+			String
+	]
+}
