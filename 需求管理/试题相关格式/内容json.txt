@@ -1,8 +1,5 @@
 {
-	"text":String,
-	"figures":[
-			uri(String)
-	]
+	"text":String(html),
 	"choices":[
 			String
 	]
